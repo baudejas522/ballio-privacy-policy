@@ -1,4 +1,4 @@
-# ballio-privacy-policy
+# Ballio Privacy Policy
 
 
 Ballio does not create user accounts or store personal data on our own servers.
